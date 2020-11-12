@@ -94,6 +94,10 @@ Estimated Total Size (MB): 62.90
 
 ![Progress of the model thoughout the training](progress.gif)
 
+## __Image interpolation__
+
+![Image interpolation](interpolation.png)
+
 ## __Watch the video__
 
 [![Watch the video here](https://img.youtube.com/vi/cqXKTC4IP10/0.jpg)](https://www.youtube.com/watch?v=cqXKTC4IP10)
