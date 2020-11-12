@@ -96,4 +96,4 @@ Estimated Total Size (MB): 62.90
 
 ## __Watch the video__
 
-[![Watch the video here](https://img.youtube.com/vi/cqXKTC4IP10/0.jpg)](https://www.youtube.com/watch?v=Q8oJxOSRMSw)
+[![Watch the video here](https://img.youtube.com/vi/cqXKTC4IP10/0.jpg)](https://www.youtube.com/watch?v=cqXKTC4IP10)
