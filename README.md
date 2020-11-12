@@ -6,8 +6,9 @@
     - Random Horizontal flip
 
 2. Preprocessing:
+    - Resize to 136x136
     - Center Crop for 128x128
-    - Normalzing for range -1 to 1
+    - Normalizing for range -1 to 1
 
 
 ## __Models__
