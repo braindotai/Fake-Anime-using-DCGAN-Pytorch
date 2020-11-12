@@ -96,5 +96,4 @@ Estimated Total Size (MB): 62.90
 
 ## __Watch the video__
 
-[![Watch the video here](https://img.youtube.com/vi/Q8oJxOSRMSw/0.jpg)](https://www.youtube.com/watch?v=Q8oJxOSRMSw)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cqXKTC4IP10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video here](https://img.youtube.com/vi/cqXKTC4IP10/0.jpg)](https://www.youtube.com/watch?v=Q8oJxOSRMSw)
