@@ -1,5 +1,7 @@
 # __Fake anime using DCGAN - Pytorch__
 
+![Final outputs](final_outputs.png)
+
 ## __Data preprocessing__
 
 1. Augmentations:
