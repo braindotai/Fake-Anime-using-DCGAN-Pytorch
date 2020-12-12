@@ -99,7 +99,7 @@ Estimated Total Size (MB): 62.90
 
 ## __Image interpolation__
 
-![Image interpolation](interpolations.png)
+![Image interpolation](interpolations.webp)
 
 ## __Watch the video__
 
