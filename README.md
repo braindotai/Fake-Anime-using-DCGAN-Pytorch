@@ -1,6 +1,6 @@
 # __Fake anime using DCGAN - Pytorch__
 
-![Final outputs](awesome_outputs.png)
+![Final outputs](awesome_outputs.webp)
 
 ## __Data preprocessing__
 
